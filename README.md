@@ -6,7 +6,7 @@ Ice Breaker is a LangChain based AI application that provides ice breakers for a
 
 The application provides 2 interesting topics the user would be interested to talk about.
 
-![Alt text](./static/images/Agent_execution.jpg)
+![Alt text](./static/images/Agent_Ex.jpg)
 
 ## Implementation
 
