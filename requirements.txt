@@ -1,0 +1,5 @@
+flask
+typing
+pydantic
+langchain
+python-dotenv
